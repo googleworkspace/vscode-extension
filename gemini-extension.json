@@ -1,6 +1,7 @@
 {
 	"name": "google-workspace-developer-tools",
 	"version": "latest",
+  	"contextFileName": "GEMINI.md",
 	"mcpServers": {
 		"workspace-developer": {
 			"httpUrl": "https://workspace-developer.goog/mcp"
